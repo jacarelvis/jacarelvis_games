@@ -6,4 +6,4 @@ Meu nome é Victor Zanetti
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-![https://tenor.com/pt-BR/view/wink-black-gif-19260179](link)
+![](https://media1.tenor.com/m/vBhraFQlxfAAAAAd/wink-black.gif))
